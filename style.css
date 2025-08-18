@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    width: 100%;
+}
+.superior{
+    display: flex;
+    flex-direction: column;
+}
+.superior-gradiente{
+    height: 2vh;
+    background: #0A3D62;
+    background: linear-gradient(79deg, rgba(10, 61, 98, 1) 0%, rgba(16, 115, 193, 1) 63%, rgba(51, 166, 204, 1) 84%);   
+}
